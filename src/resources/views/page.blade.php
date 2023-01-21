@@ -2,7 +2,7 @@
 
 
 @section('content')
-
+dadgagdaadg
     @extends('example3::inc')
 @endsection
 
